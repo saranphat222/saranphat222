@@ -8,7 +8,7 @@ Hello! My name is Saranphat Sridadech, and I am a student at Nakhonsawan School.
 
 *   🌍  I'm based in Nakhon Sawan, Thailand
 *   🖥️  See my portfolio at [saranphat.netlify.app](http://saranphat.netlify.app/)
-*   🧠  I'm learning tailwind css
+*   🧠  I'm learning ".PY"
 *   🤝  I'm open to collaborating on Python Projects, Web Development Projects
 ### Skills 
 <p align="left">
